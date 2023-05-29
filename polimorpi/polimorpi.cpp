@@ -16,3 +16,10 @@ public:
 	}
 };
 
+class dimas : public seseorang {
+public:
+	void pesan() {
+		cout << "pesan dari dimas" << endl;
+	}
+};
+
